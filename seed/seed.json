@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Invoice INV-2026-001",
+      "category": "invoice",
+      "status": "paid",
+      "invoice_num": "INV-2026-001",
+      "total_cents": 120000
+    },
+    {
+      "name": "Invoice INV-2026-002",
+      "category": "invoice",
+      "status": "issued",
+      "invoice_num": "INV-2026-002",
+      "total_cents": 4900
+    },
+    {
+      "name": "Invoice INV-2026-003",
+      "category": "invoice",
+      "status": "draft",
+      "invoice_num": "INV-2026-003",
+      "total_cents": 25000
+    }
+  ]
+}
